@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "e0d1e2b6385946e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a704cef0474ee62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56597c0b6ab97888",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025_CybserSecurity/Cybersecurity Understanding the CIA Triad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cybersecurity Understanding the CIA Triad"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f17f2f7bf8921426",
+    "type": "split",
+    "children": [
+      {
+        "id": "df592c744685590e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6df8d20631ff87db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "33b3ed2ab0f7b4cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3101fdc019272849",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 563.5
+  },
+  "right": {
+    "id": "7f81b11279a1df2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6dd7023719ee725",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6052c3905a6a6c6d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Public Key infrastructure.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Public Key infrastructure"
+            }
+          },
+          {
+            "id": "ebf044df08d6da59",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Public Key infrastructure.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Public Key infrastructure"
+            }
+          },
+          {
+            "id": "a916aa26b899ba9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "886af30b18775a5f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Public Key infrastructure.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Public Key infrastructure"
+            }
+          },
+          {
+            "id": "bc4760f5b92a1488",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "56597c0b6ab97888",
+  "lastOpenFiles": [
+    "2025_CybserSecurity/Cybersecurity Understanding the CIA Triad.md",
+    "VAReport/mail.padmabankbd.com.md",
+    "Untitled.canvas",
+    "Experiment.md",
+    "Public Key infrastructure.md",
+    "2025_CybserSecurity/Encryption.md",
+    "practice.md",
+    "Ibanking.pdf",
+    "Coding Design.md",
+    "VAReport",
+    "attachments/Pasted image 20241228180712.png",
+    "2025_CybserSecurity",
+    "Office/Ibanking.md",
+    "Office",
+    "attachments/Pasted image 20241228180144.png",
+    "[[Public.md",
+    "[[English.md",
+    "![[English.md",
+    "Digital Certificates.md",
+    "Welcome.md",
+    "2024-12-28.md",
+    "Pasted image 20241228173808.png",
+    "Excalidraw/Drawing 2024-12-28 18.00.28.excalidraw.md",
+    "attachments/group2/Picture1.jpg",
+    "attachments/group2/Pasted image 20241228174057.png",
+    "attachments/group1/line1.png",
+    "attachments/group2",
+    "attachments/group1",
+    "attachments",
+    "Excalidraw/Drawing 2024-12-28 17.33.27.excalidraw.md",
+    "English/English writing.md",
+    "Excalidraw/Drawing 2024-12-28 16.48.51.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-28 16.51.28.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-26 12.31.46.excalidraw.md",
+    "Excalidraw",
+    "English",
+    "OfficeTaskCoding"
+  ]
+}

@@ -1,2 +1,0 @@
-# MyNotes
-MyNotes Obsdian notes
