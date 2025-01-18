@@ -9,7 +9,7 @@ The CIA Triad is a foundational concept in cybersecurity, representing three pri
 **Key Practices to Ensure Confidentiality:**
 
 
-- **Encryption**: Transforming data into a coded format that can only be read by someone with the decryption key.
+- **[[Encryption]]**: Transforming data into a coded format that can only be read by someone with the decryption key.
 - **Access Controls**: Implementing user authentication and authorization measures to restrict access to sensitive information.
 - **Access Controls:** Implement role-based access control (RBAC), least privilege, and strong authentication mechanisms like MFA.
 - **Data Masking:** Obscure sensitive information when displayed in non-secure environments.
