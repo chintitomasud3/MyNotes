@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025_CybserSecurity/Cybersecurity Understanding the CIA Triad.md",
-                "mode": "preview",
+                "file": "Prompt_Engineering/python/Django prompt.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cybersecurity Understanding the CIA Triad"
+              "title": "Django prompt"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025_CybserSecurity/Cybersecurity Understanding the CIA Triad.md",
+                "file": "Prompt_Engineering/python/Django prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cybersecurity Understanding the CIA Triad"
+              "title": "Backlinks for Django prompt"
             }
           },
           {
@@ -184,21 +184,28 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "fd87a2b54e594510",
   "lastOpenFiles": [
-    "Python/Django/Untitled 1.md",
+    "Python/Django/coding.py.md",
+    "attachments/Pasted image 20250125073615.png",
+    "Prompt_Engineering/python/Django prompt.md",
+    "Excalidraw/Drawing 2025-01-25 07.31.50.excalidraw.md",
     "2025_CybserSecurity/Cybersecurity Understanding the CIA Triad.md",
+    "Prompt_Engineering/python",
+    "Untitled",
+    "2025_CybserSecurity/Encryption.md",
+    "Prompt_Engineering",
+    "Excalidraw/Drawing 2025-01-25 07.26.48.excalidraw.md",
     "Free  Handwriting.md",
     "Python/Django",
-    "Untitled",
     "Untitled.canvas",
     "Python",
     "Untitled.md",
     "Excalidraw/Drawing 2024-12-28 16.48.51.excalidraw.md",
-    "2025_CybserSecurity/Encryption.md",
     "attachments/Pasted image 20241228180712.png",
     "2025-01-18.md",
     "attachments/group2/Picture1.jpg",
@@ -225,10 +232,6 @@
     "Pasted image 20241228173808.png",
     "attachments/group2/Pasted image 20241228174057.png",
     "attachments/group1/line1.png",
-    "attachments/group2",
-    "attachments/group1",
-    "attachments",
-    "Excalidraw/Drawing 2024-12-28 17.33.27.excalidraw.md",
-    "English/English writing.md"
+    "attachments/group2"
   ]
 }
