@@ -1,0 +1,5 @@
+Uninstall the Google Games Play Beta.
+
+Go to CMD ( ctrl + r > type in "cmd" > type "bcdedit /set hypervisorlaunchtype off" > hit on Enter) If unable to enter command due to restrictions, try running CMD as administrator.
+
+Restart your device/PC.

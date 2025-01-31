@@ -184,6 +184,6 @@ if __name__ == "__main__":
 
 ```
 
-![](https://i.imgur.com/Ntdl6qJ.png)
+
 
 
