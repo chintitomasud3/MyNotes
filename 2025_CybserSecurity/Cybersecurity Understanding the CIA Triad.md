@@ -229,4 +229,4 @@ When presenting the CIA Triad, follow these steps to ensure clarity and engageme
 
 ### Summary
 
-The CIA Triad is a critical framework for understanding and implementing cybersecurity measures. By addressing confidentiality, integrity, and availability, professionals can design robust systems and respond effectively to threats. Moving beyond CIA, the inclusion of authenticity and nonrepudiation ensures trust, accountability, and operational viability in modern systems. Use relatable analogies, visual aids, and real-life examples to make these concepts accessible and memorable.
+The CIA Triad is a critical framework for understanding and implementing cybersecurity measures. By addressing confidentiality, integrity, and availability, professionals can design robust systems and respond effectively to threats. Moving beyond CIA, the inclusion of authenticity and nonrepudiation ensures trust, accountability, and operational viability in modern systems. Use relatable analogies, visual aids, and real-life examples to make these concepts accessible and memorable..ok
