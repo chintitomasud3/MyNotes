@@ -52,3 +52,4 @@ Risk management involves several key components and steps to help organizations 
 ## 7. Documentation
 **What It Is:** Keeping records of all risk management processes, decisions, and evaluations.  
 **Why It's Important:** Provides a reference for future risk assessments and helps in compliance with regulations.
+**We rank risks by likelihood and impact**
