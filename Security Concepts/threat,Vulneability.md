@@ -37,6 +37,8 @@ A vulnerability is a weakness or gap in a system that can be exploited by a thre
 
 Risk is the potential for loss or damage when a threat exploits a vulnerability. It is the likelihood of a threat taking advantage of a vulnerability and the impact it would have.
 
+# Likelihood is the probability a risk will occure
+
 ## Example
 - In the house scenario, the risk is the possibility of the burglar entering through the unlocked door and stealing valuables. The risk can be quantified by considering the likelihood of a burglary occurring and the value of the items that could be stolen.
 - The possibility of a hacker exploiting the software flaw to access and steal sensitive data, potentially leading to financial loss and reputational damage for the organization, is another example of risk.
