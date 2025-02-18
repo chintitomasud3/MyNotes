@@ -20,6 +20,12 @@ The CIA Triad is a foundational concept in cybersecurity, representing three pri
 - Unauthorized access (hacking, insider threats)
 - Data breaches
 - Eavesdropping or sniffing attacks
+- Threat related to confidentiality are: 
+1. **Snooping** involves gathering information that is left out in the open. Clean desk policies protect against snooping.
+2. **Dumpster diving** also looking for sensitive materials, but in the dumpster, a paper shredding protects against it.
+3. **Eavesdropping** occurs when someone secretly listen to a conversation, and it can be prevent with rules about sensitive conversations 
+4. **Wiretapping** is the electronic version of eavesdropping, the best way against that is using encryption to protect the communication.
+5. **Social Engineering**, the best defense is educate users to protect them against social engineering
 
 **Example Interview Question:**
 
@@ -53,6 +59,10 @@ The CIA Triad is a foundational concept in cybersecurity, representing three pri
 - Data tampering (e.g., man-in-the-middle attacks, unauthorized changes)
 - Malware (e.g., ransomware corrupting files)
 - Insider threats
+1. **Unauthorized modification** attacks make changes without permission. The best way to protect against that is the least privilege principle. 
+2. **Impersonation attacks** pretend to be someone else. User education protects against impersonation attack. 
+3. **Man-In-The-Middle (MITM)** attacks place the attacker in the middle of a communication session, monitoring everything that's occurring. 
+4. **Replay attacks** eavesdrop on logins and reuse the captured credentials. To both MiTM and Replay attacks the best approach is encryption
 
 **Example Interview Question:**
 
@@ -85,6 +95,10 @@ The CIA Triad is a foundational concept in cybersecurity, representing three pri
 - Distributed Denial of Service (DDoS) attacks
 - Hardware or software failures
 - Natural disasters or power outages
+1. **Denial of Service** can be mitigated using firewalls to block unauthorized connections 
+2. **Power outages** can be mitigated using redundant power and generators 
+3. **Hardware failures** can be mitigated using redundant components 
+4. **Destruction** can be mitigated using backups 5. Service outages
 
 **Example Interview Question:**
 
@@ -140,19 +154,19 @@ These principles ensure business operations remain trustworthy and secure.
 
 ### Written Questions and Sample Answers
 
-1. **What is the CIA Triad in cybersecurity?**
+5. **What is the CIA Triad in cybersecurity?**
     
     - **Answer:** The CIA Triad stands for Confidentiality, Integrity, and Availability. It is a model used to guide security policies to protect information and systems.
-2. **Explain how encryption supports the CIA Triad.**
+6. **Explain how encryption supports the CIA Triad.**
     
     - **Answer:** Encryption supports confidentiality by making data inaccessible without the decryption key. It also ensures integrity by allowing verification of data consistency.
-3. **What is the impact of a DDoS attack on the CIA Triad?**
+7. **What is the impact of a DDoS attack on the CIA Triad?**
     
     - **Answer:** A DDoS attack primarily impacts availability by overwhelming resources, making services inaccessible to legitimate users. It can also indirectly affect confidentiality and integrity if systems fail and expose data.
-4. **What is the difference between authenticity and nonrepudiation?**
+8. **What is the difference between authenticity and nonrepudiation?**
     
     - **Answer:** Authenticity ensures that data is from a legitimate source, while nonrepudiation ensures that the source cannot deny having sent the data.
-5. **How does multifactor authentication enhance the CIA principles?**
+9. **How does multifactor authentication enhance the CIA principles?**
     
     - **Answer:** MFA strengthens confidentiality by requiring multiple forms of verification, reducing the likelihood of unauthorized access.
     *
