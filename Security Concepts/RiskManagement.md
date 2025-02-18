@@ -1,8 +1,8 @@
 # Ref : linkdin learning Cerp prep:ISC2
 # Risk Management
-1.**Internal risks** arise from within the organizations.
-2.**External risks** arise from outise the organization.
-3.**Multiparty risks** affect more than one organization.
+1. **Internal risks** arise from within the organizations.
+2. **External risks** arise from outise the organization.
+3. **Multiparty risks** affect more than one organization.
 
 **Definition:** Risk management is the overall process of identifying, assessing, and taking steps to minimize risks. It’s about making a plan to keep things safe.
 
