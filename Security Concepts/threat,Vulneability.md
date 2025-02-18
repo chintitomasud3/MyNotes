@@ -30,3 +30,18 @@ A vulnerability is a weakness or gap in a system that can be exploited by a thre
 ## Example
 - Continuing with the house analogy, a vulnerability could be an unlocked door or an open window that a burglar can easily access.
 - An outdated software application with known security flaws is another example of a vulnerability.
+
+
+# Risk
+
+Risk is the potential for loss or damage when a threat exploits a vulnerability. It is the likelihood of a threat taking advantage of a vulnerability and the impact it would have.
+
+## Example
+- In the house scenario, the risk is the possibility of the burglar entering through the unlocked door and stealing valuables. The risk can be quantified by considering the likelihood of a burglary occurring and the value of the items that could be stolen.
+- The possibility of a hacker exploiting the software flaw to access and steal sensitive data, potentially leading to financial loss and reputational damage for the organization, is another example of risk.
+
+## Putting It All Together
+- **Threat**: A burglar.
+- **Vulnerability**: An unlocked door.
+- **Risk**: The chance of the burglar entering through the unlocked door and stealing valuables.
+
