@@ -1,3 +1,4 @@
+#Ref : https://www.youtube.com/watch?v=KJ6tydGo-zc
 # Threat
 
 A threat is anything that has the potential to cause harm to a system or organization. It can be a person, a situation, or a physical event.
@@ -76,3 +77,23 @@ A) A software bug that allows unauthorized access
 B) An individual or event that can potentially cause harm to a system  
 C) A security measure implemented to protect data  
 D) A technique used to recover lost data
+
+# Question Practice
+
+**Question**: What is a vulnerability in the context of cybersecurity?
+
+A) A strong password policy  
+B) An unpatched software flaw that can be exploited  
+C) A method of encrypting data  
+D) A comprehensive backup solution
+
+
+
+# Question Practice
+
+**Question**: How is risk defined in cybersecurity?
+
+A) The amount of money spent on security measures  
+B) The potential for loss or damage when a threat exploits a vulnerability  
+C) The process of identifying and mitigating threats  
+D) The implementation of firewall rules
