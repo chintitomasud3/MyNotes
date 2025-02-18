@@ -36,8 +36,8 @@ Risk management involves several key components and steps to help organizations 
 ## 4. Risk Treatment (Mitigation)
 **What It Is:** Developing strategies to manage risks effectively.  
 **Options Include:**
-- **Avoidance:** Changing plans to sidestep the risk.
-- **Reduction:** Implementing measures to reduce the impact or likelihood of the risk.
+- **Avoidance:** Changing plans to sidestep the risk. Risk Avoidance changes the businesss practices to make  a risk irrelevant.
+- **Reduction /mitigation:** Implementing measures to reduce the impact or likelihood of the risk.
 - **Transfer:** Outsourcing the risk to another party (e.g., insurance).
 - **Acceptance:** Acknowledging the risk and deciding to take it on.
 
@@ -53,3 +53,8 @@ Risk management involves several key components and steps to help organizations 
 **What It Is:** Keeping records of all risk management processes, decisions, and evaluations.  
 **Why It's Important:** Provides a reference for future risk assessments and helps in compliance with regulations.
 **We rank risks by likelihood and impact**
+
+
+**Inherent Risk** is the natural level of risk without controls, while **Residual Risk** is the risk that remains after controls are applied. 
+
+**Control Risk** specifically refers to the risk that internal controls may fail to mitigate inherent risks effectively.
