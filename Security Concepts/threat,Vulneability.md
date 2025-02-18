@@ -45,3 +45,10 @@ Risk is the potential for loss or damage when a threat exploits a vulnerability.
 - **Vulnerability**: An unlocked door.
 - **Risk**: The chance of the burglar entering through the unlocked door and stealing valuables.
 
+# Cybersecurity Context Example
+
+Let’s translate this into a cybersecurity context:
+
+- **Threat**: A hacker who wants to steal sensitive data.
+- **Vulnerability**: An outdated software application with known security flaws.
+- **Risk**: The possibility of the hacker exploiting the software flaw to access and steal sensitive data, potentially leading to financial loss and reputational damage for the organization.
