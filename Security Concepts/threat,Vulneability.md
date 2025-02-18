@@ -52,3 +52,17 @@ Let’s translate this into a cybersecurity context:
 - **Threat**: A hacker who wants to steal sensitive data.
 - **Vulnerability**: An outdated software application with known security flaws.
 - **Risk**: The possibility of the hacker exploiting the software flaw to access and steal sensitive data, potentially leading to financial loss and reputational damage for the organization.
+
+# Risk Formula
+
+Let's apply this formula in a simple example:
+
+- **Likelihood** refers to the probability that a given threat will exploit a vulnerability. It is an estimation of how likely it is for a threat event to occur.
+  - A measure that estimates the **occurrence** of an event.
+
+- **Impact** refers to the potential consequences or damage resulting from a threat exploiting a vulnerability. It measures the severity of the adverse effects on the organization.
+  - A measure that estimates the **consequence** of an event.
+
+- **Risk** is a combination of both likelihood and impact. It quantifies the potential for loss or damage when a threat exploits a vulnerability.
+
+**Risk**: \( \text{Risk} = \text{Likelihood} \times 100 \, \text{(Impact)} = 30,000 \)
