@@ -66,3 +66,13 @@ Let's apply this formula in a simple example:
 - **Risk** is a combination of both likelihood and impact. It quantifies the potential for loss or damage when a threat exploits a vulnerability.
 
 **Risk**: \( \text{Risk} = \text{Likelihood} \times 100 \, \text{(Impact)} = 30,000 \)
+
+
+# Question Practice
+
+**Question**: Which of the following best describes a threat in the context of cybersecurity?
+
+A) A software bug that allows unauthorized access  
+B) An individual or event that can potentially cause harm to a system  
+C) A security measure implemented to protect data  
+D) A technique used to recover lost data
