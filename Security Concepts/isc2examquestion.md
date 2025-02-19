@@ -170,3 +170,27 @@ Which controls are implemented through a tangible mechanism such as walls, fence
 
 **Answer:**  
 ✅ **(c) Physical Control** 
+
+
+### Question 15:  
+Which of the following documents identifies the principles and rules governing an organization's protection of information systems and data?  
+
+**Options:**  
+- a) Policy  
+- b) Procedure  
+- c) Guideline  
+- d) Standard  
+
+**Answer:**  
+✅ **(a) Policy**  
+
+### Explanation:  
+A **policy** is a high-level document that defines the principles, rules, and overall approach an organization follows to protect its information systems and data.  
+It provides strategic direction and serves as the foundation for security procedures, guidelines, and standards.  
+
+🔹 **Other Options Explained:**  
+- **(b) Procedure** → A step-by-step instruction on how to implement a policy.  
+- **(c) Guideline** → A recommendation that provides flexibility but is not mandatory.  
+- **(d) Standard** → A detailed requirement ensuring uniformity in security implementations.  
+
+
