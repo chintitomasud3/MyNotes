@@ -36,3 +36,15 @@ What was the primary purpose of Separation of Duties in an organization?
 
 **Answer:**  
 ✅ **(b) Data Integrity**  
+
+### Question 04:  
+The purpose of mandatory vacations as a security measure is to discover which of the following?  
+
+**Options:**  
+- A) Network administrator fraud  
+- B) Vulnerabilities on system  
+- C) Comply with Regulation  
+- D) Software vulnerabilities in vendor code  
+
+**Answer:**  
+✅ **(A) Network administrator fraud**  
