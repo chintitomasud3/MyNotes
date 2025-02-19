@@ -62,3 +62,26 @@ Security professionals with an (ISC)² certification are expected to serve first
 **Answer:**  
 ✅ **(c) Humanity**  
 
+### Question 06:  
+What kind of risk response enterprise is used to stop or remove the activity or technology that causes the risk in the first place?  
+
+**Options:**  
+- a) Risk Avoidance  
+- b) Risk Transfer  
+- c) Risk Acceptance  
+- d) Risk Mitigation  
+
+**Answer:**  
+✅ **(a) Risk Avoidance**  
+### Question 07:  
+Which will be a more appropriate risk response when the identified risk is within the organizational risk tolerance?  
+
+**Options:**  
+- a) Risk Avoidance  
+- b) Risk Transfer  
+- c) Risk Acceptance  
+- d) Risk Mitigation  
+
+**Answer:**  
+✅ **(c) Risk Acceptance**  
+
