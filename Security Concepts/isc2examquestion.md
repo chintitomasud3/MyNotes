@@ -233,4 +233,42 @@ A **standard** defines the specific technical requirements necessary to implemen
 - **(b) Procedure** → A step-by-step method to implement a policy or standard.  
 - **(c) Guideline** → A recommendation that provides flexibility but is not mandatory.  
 
+### Question:  
+When considering MFA, which of the following will be the **least priority** for an enterprise?  
+
+**Options:**  
+- a) Throughput  
+- b) Acceptability  
+- c) Accuracy  
+- d) Competitors  
+
+**Answer:**  
+✅ **(d) Competitors**  
+
+### Explanation:  
+When implementing **Multi-Factor Authentication (MFA)**, enterprises prioritize **security, usability, and performance**.  
+- **Throughput** (a) → Important for ensuring smooth authentication.  
+- **Acceptability** (b) → Ensures users comply with MFA without resistance.  
+- **Accuracy** (c) → Crucial for avoiding false positives/negatives in authentication.  
+- **Competitors** (d) → Not a major factor, as MFA decisions focus on security, not market competition.  
+
+### Question:  
+Which of the following things **MUST** be required for a good decision in an enterprise?  
+
+**Options:**  
+- a) Good governance  
+- b) Effective roles and responsibilities  
+- c) Effective policies  
+- d) External audit  
+
+**Answer:**  
+✅ **(a) Good governance**  
+
+### Explanation:  
+Good governance ensures that decision-making in an enterprise is **structured, transparent, and accountable**. It provides a framework for establishing roles, responsibilities, and policies while aligning them with business goals.  
+
+🔹 **Other options explained:**  
+- **(b) Effective roles and responsibilities** → Important but falls under governance.  
+- **(c) Effective policies** → Supports decision-making but is part of governance.  
+- **(d) External audit** → Helps review decisions but is not mandatory for making good decisions.  
 
