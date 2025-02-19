@@ -11,3 +11,28 @@ When virtual machines are constructed and destroyed in elastic cloud computing e
 
 **Answer:**  
 ✅ **(a) Data Confidentiality**  
+
+### Question 02:  
+What is the purpose of the backup of electronically stored data on HDD?  
+
+**Options:**  
+- a) Data Confidentiality  
+- b) Data Integrity  
+- c) Data Availability  
+- d) Data Authenticity  
+
+**Answer:**  
+✅ **(c) Data Availability**  
+
+
+### Question 03:  
+What was the primary purpose of Separation of Duties in an organization?  
+
+**Options:**  
+- a) Data Confidentiality  
+- b) Data Integrity  
+- c) Data Availability  
+- d) Data Authenticity  
+
+**Answer:**  
+✅ **(b) Data Integrity**  
