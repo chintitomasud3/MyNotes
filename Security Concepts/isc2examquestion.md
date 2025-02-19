@@ -191,6 +191,27 @@ It provides strategic direction and serves as the foundation for security proced
 🔹 **Other Options Explained:**  
 - **(b) Procedure** → A step-by-step instruction on how to implement a policy.  
 - **(c) Guideline** → A recommendation that provides flexibility but is not mandatory.  
+- **(d) Standard** → A detailed requirement ensuring uniformity in security implementations.
+
+### Question 16:  
+Which document helps us with strategic direction for security and assigns resources for its implementation within the organization?  
+
+**Options:**  
+- a) Policy  
+- b) Procedure  
+- c) Guideline  
+- d) Standard  
+
+**Answer:**  
+✅ **(a) Policy**  
+
+### Explanation:  
+A **policy** provides the strategic direction for security within an organization. It defines the security objectives, assigns responsibilities, and ensures the allocation of resources for implementation.  
+
+🔹 **Other Options Explained:**  
+- **(b) Procedure** → A step-by-step instruction on how to implement a policy.  
+- **(c) Guideline** → A recommended approach that provides flexibility but is not mandatory.  
 - **(d) Standard** → A detailed requirement ensuring uniformity in security implementations.  
+
 
 
