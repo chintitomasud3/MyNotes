@@ -213,5 +213,24 @@ A **policy** provides the strategic direction for security within an organizatio
 - **(c) Guideline** → A recommended approach that provides flexibility but is not mandatory.  
 - **(d) Standard** → A detailed requirement ensuring uniformity in security implementations.  
 
+### Question:  
+Which document serves as specifications for the implementation of policy and dictates mandatory requirements?  
+
+**Options:**  
+- a) Policy  
+- b) Procedure  
+- c) Guideline  
+- d) Standard  
+
+**Answer:**  
+✅ **(d) Standard**  
+
+### Explanation:  
+A **standard** defines the specific technical requirements necessary to implement a policy. It ensures uniformity and compliance with mandatory rules and regulations.  
+
+🔹 **Other Options Explained:**  
+- **(a) Policy** → A high-level document defining security objectives and principles.  
+- **(b) Procedure** → A step-by-step method to implement a policy or standard.  
+- **(c) Guideline** → A recommendation that provides flexibility but is not mandatory.  
 
 
