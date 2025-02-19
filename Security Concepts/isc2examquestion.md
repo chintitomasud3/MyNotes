@@ -147,3 +147,15 @@ Which of the following is a way to implement a technical control to mitigate dat
 **Answer:**  
 ✅ **(A) Disk Encryption**  
 
+### Question:  
+Firewalls, electronic badge readers, and access control lists are examples of which type of control?  
+
+**Options:**  
+- a) Technical Control  
+- b) Administrative Control  
+- c) Physical Control  
+- d) Generic Control  
+
+**Answer:**  
+✅ **(a) Technical Control**  
+
