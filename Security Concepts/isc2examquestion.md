@@ -85,3 +85,14 @@ Which will be a more appropriate risk response when the identified risk is withi
 **Answer:**  
 ✅ **(c) Risk Acceptance**  
 
+### Question 08:  
+What is the MOST feasible risk response when the cost of anti-malware exceeds the damage probability of computer viruses?  
+
+**Options:**  
+- a) Risk Acceptance  
+- b) Risk Transfer  
+- c) Risk Avoidance  
+- d) Risk Tolerance  
+
+**Answer:**  
+✅ **(a) Risk Acceptance**  
