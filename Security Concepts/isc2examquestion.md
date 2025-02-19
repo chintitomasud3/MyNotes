@@ -123,4 +123,27 @@ Which of the following is a manner of risk avoidance?
 **Answer:**  
 ✅ **(c) Exit the process that arises risk**  
 
+### Question:  
+A Risk Officer has recommended several controls such as a firewall and anti-malware to protect the enterprise's information systems. Which Risk Response Action has been taken?  
+
+**Options:**  
+- A) Risk Transference  
+- B) Risk Mitigation  
+- C) Risk Acceptance  
+- D) Risk Avoidance  
+
+**Answer:**  
+✅ **(B) Risk Mitigation**  
+
+### Question 12:  
+Which of the following is a way to implement a technical control to mitigate data loss in case of a mobile device theft?  
+
+**Options:**  
+- A) Disk Encryption  
+- B) Encryption Policy  
+- C) Solid State Drive  
+- D) Mobile Security Policy  
+
+**Answer:**  
+✅ **(A) Disk Encryption**  
 
