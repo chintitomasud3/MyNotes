@@ -48,3 +48,17 @@ The purpose of mandatory vacations as a security measure is to discover which of
 
 **Answer:**  
 ✅ **(A) Network administrator fraud**  
+
+
+### Question 05:  
+Security professionals with an (ISC)² certification are expected to serve first:  
+
+**Options:**  
+- a) Company  
+- b) Happy Client  
+- c) Humanity  
+- d) Good Security Advisor  
+
+**Answer:**  
+✅ **(c) Humanity**  
+
