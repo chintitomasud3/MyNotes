@@ -96,3 +96,31 @@ What is the MOST feasible risk response when the cost of anti-malware exceeds th
 
 **Answer:**  
 ✅ **(a) Risk Acceptance**  
+
+## Ref https://youtu.be/XbmXDSc5_bs?si=81QpH0nfvmUbQehX
+
+### Question:  
+An assessment of an organization's IT initiatives reveals that projects typically run over budget or on schedule by approximately 50%. Management tells the risk practitioner that a variance of 55% is acceptable after a review. This is an illustration of:  
+
+**Options:**  
+- a) Risk Acceptance  
+- b) Risk Transfer  
+- c) Risk Mitigation  
+- d) Risk Tolerance  
+
+**Answer:**  
+✅ **(d) Risk Tolerance**  
+
+### Question 10:  
+Which of the following is a manner of risk avoidance?  
+
+**Options:**  
+- a) Install antivirus  
+- b) Purchase insurance  
+- c) Exit the process that arises risk  
+- d) Take no action against risk  
+
+**Answer:**  
+✅ **(c) Exit the process that arises risk**  
+
+
