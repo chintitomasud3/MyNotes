@@ -159,3 +159,14 @@ Firewalls, electronic badge readers, and access control lists are examples of wh
 **Answer:**  
 ✅ **(a) Technical Control**  
 
+### Question 14:  
+Which controls are implemented through a tangible mechanism such as walls, fences, guards, and locks?  
+
+**Options:**  
+- a) Technical Control  
+- b) Administrative Control  
+- c) Physical Control  
+- d) Generic Control  
+
+**Answer:**  
+✅ **(c) Physical Control** 
