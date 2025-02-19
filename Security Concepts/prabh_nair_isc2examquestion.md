@@ -1,4 +1,17 @@
 ## Ref : https://www.youtube.com/watch?v=0F3QP2Bt1KI&list=PL0hT6hgexlYw-k6GxQf_DIAPdc96T2MP-
+# Summary of Key Takeaways
+
+- **Data Confidentiality** → Protecting data from unauthorized access.  
+- **Data Integrity** → Preventing unauthorized modifications to data.  
+- **Data Availability** → Ensuring data is accessible when needed.  
+- **Risk Avoidance** → Eliminating risky activities.  
+- **Risk Acceptance** → Tolerating low-impact risks.  
+- **Risk Mitigation** → Reducing risk through controls.  
+- **Technical Controls** → Firewalls, encryption, and access control lists.  
+- **Physical Controls** → Locks, guards, and fences.  
+
+
+
 
 ### Question:  
 When virtual machines are constructed and destroyed in elastic cloud computing environments, the same physical hardware is commonly used by different clients over time. This has implications for which of the following data security issues?  
