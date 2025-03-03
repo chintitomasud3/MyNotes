@@ -134,3 +134,22 @@ Vulnerabilities come in many types, including:
 ## **3. Manual Code Review**  
 🔹 Involves manually reviewing source code to find security flaws.  
 🔹 Helps detect logic errors, insecure coding practices, and vulnerabilities missed by automated tools.  
+
+
+# Report – Common Components
+
+## 1. Executive Summary  
+A brief overview of the report’s purpose, scope, and key findings.  
+
+## 2. Assessment Overview  
+A description of the assessment methodology, tools used, and scope.  
+
+## 3. Findings  
+Detailed results of the assessment, including identified vulnerabilities and issues.  
+
+## 4. Risk Assessment  
+An evaluation of risks associated with the findings, including potential impact.  
+
+## 5. Recommendations  
+Suggested actions to mitigate risks and improve security posture.  
+
