@@ -94,3 +94,30 @@ CVSS scores are calculated based on several factors, including:
 - Impact on critical systems  
 - Presence of mitigating factors  
 
+# **Types of Vulnerabilities**
+
+Vulnerabilities come in many types, including:
+
+## **1. Zero-Day**
+🔹 Newly discovered vulnerabilities that have no patch available.  
+🔹 Exploited before developers can release a fix.
+
+## **2. Misconfigurations**
+🔹 Weak or incorrect settings that expose systems to attacks.  
+
+### **Examples:**
+- **Default Passwords** → Pre-set credentials that are easy to guess.  
+- **Default Configurations** → Factory settings that may lack security.  
+
+## **3. Operating System Vulnerabilities**
+🔹 Security flaws within OS components or services.
+
+## **4. Third-Party Risks**
+🔹 Vulnerabilities in external software or dependencies.  
+
+## **5. Patch Management Issues**
+🔹 Failure to apply security updates, leaving systems exposed.  
+
+## **6. Application Flaws**
+🔹 Bugs or design flaws in software that attackers can exploit.  
+
