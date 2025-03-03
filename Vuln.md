@@ -121,3 +121,16 @@ Vulnerabilities come in many types, including:
 ## **6. Application Flaws**
 🔹 Bugs or design flaws in software that attackers can exploit.  
 
+# **Vulnerability Assessment Approaches**
+
+## **1. Vulnerability Scanning**  
+🔹 Uses automated tools to scan systems, networks, and applications for known vulnerabilities.  
+🔹 Helps identify security weaknesses without actively exploiting them.  
+
+## **2. Penetration Testing**  
+🔹 Simulates a real-world attack to identify and exploit vulnerabilities.  
+🔹 Helps assess the effectiveness of security defenses.  
+
+## **3. Manual Code Review**  
+🔹 Involves manually reviewing source code to find security flaws.  
+🔹 Helps detect logic errors, insecure coding practices, and vulnerabilities missed by automated tools.  
