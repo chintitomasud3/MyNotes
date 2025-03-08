@@ -153,7 +153,7 @@ BitLocker / FileVault: Encrypts disk storage.
 ✅ Regularly audit and update encryption methods.
 ✅ Ensure compliance with legal and industry security standards.
 
-
+বাংলা: এনক্রিপশন হলো একটা গোপন বাক্সে চিঠি রেখে তালা লাগানোর মতো, যা শুধুমাত্র নির্দিষ্ট ব্যক্তির কাছে খোলার চাবি আছে।
 ---
 
 Summary
