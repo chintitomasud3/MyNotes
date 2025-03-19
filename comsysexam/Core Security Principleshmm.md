@@ -48,3 +48,4 @@
 - **Scenarios**: You might see questions like, “Which control prevents unauthorized access?” (Answer: Preventive—e.g., a firewall).
 - **Definitions**: Know the difference between detective (e.g., IDS) and corrective (e.g., restoring from backup).
 - **Trends**: Be ready for questions on cloud or IoT security challenges.
+![image](https://github.com/user-attachments/assets/9404fd83-0f94-488b-ad16-a9c97caccf94)
