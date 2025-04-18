@@ -34,3 +34,23 @@ Imagine you want to send a locked box (**your message**) to a friend. But only y
 - **Certificate Authority (CA)** → Acts like a **trusted authority** that verifies the identity of your friend and confirms that the padlock is genuine.  
 
 Thus, **PKI ensures** that messages are **locked securely**, and only the **intended person can unlock them**, preventing **eavesdropping** or **identity fraud**.  
+
+Public Key Infrastructure (PKI) is a framework that manages digital certificates and encryption keys to ensure secure communication over networks. It plays a crucial role in authentication, confidentiality, and integrity of data.
+How PKI Works
+PKI relies on two key components:
+- Public & Private Keys – Used for encryption and decryption.
+- Digital Certificates – Issued by a Certificate Authority (CA) to verify identities.
+
+Key Elements of PKI
+- Certificate Authority (CA) – Issues and verifies digital certificates.
+- Registration Authority (RA) – Validates requests before certificates are issued.
+- Certificate Revocation List (CRL) – Lists invalid or revoked certificates.
+- Public & Private Keys – Used for secure encryption and authentication.
+
+Why PKI is Important
+- Secure Communication – Protects sensitive data online.
+- Authentication – Ensures users and devices are legitimate.
+- Data Integrity – Prevents unauthorized modifications.
+- Encryption – Safeguards information from cyber threats.
+
+
