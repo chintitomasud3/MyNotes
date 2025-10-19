@@ -4,7 +4,7 @@
 উদাহরণ: ধরুন, আপনার বাড়ির দরজার তালা চেক করছেন যে কেউ ভাঙতে পারে কি না।
 
 
-### প্রশ্ন ১: Footprinting কী?
+![[Gemini_Generated_Image_hr6vc4hr6vc4hr6v.png]]### প্রশ্ন ১: Footprinting কী?
 
 **উত্তর:**
 

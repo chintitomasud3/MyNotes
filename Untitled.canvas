@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"135f8a0ad575a722","x":-520,"y":-340,"width":300,"height":100,"type":"text","text":""},
+		{"id":"f3d3e97b058d892d","x":100,"y":-80,"width":250,"height":60,"color":"4","type":"text","text":""},
+		{"id":"c0b52b2082a0b77d","x":-720,"y":-100,"width":540,"height":420,"type":"file","file":"Code of Ethics.md"}
+	],
+	"edges":[
+		{"id":"c9fcd86069c7e746","fromNode":"135f8a0ad575a722","fromSide":"right","toNode":"f3d3e97b058d892d","toSide":"top"}
+	]
+}
