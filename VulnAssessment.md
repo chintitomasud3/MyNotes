@@ -38,3 +38,6 @@ Preparing a detailed report with risk levels and remediation suggestions.
 5. Remediation (সমাধান):
 দুর্বলতা দূর করার জন্য ব্যবস্থা নেওয়া।
 Fixing the vulnerabilities through patches, configuration changes, etc.
+
+
+color check
