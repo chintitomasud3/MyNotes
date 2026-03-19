@@ -27,16 +27,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bangla/notes.md",
+                "file": "VulnAssessment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notes"
+              "title": "VulnAssessment"
+            }
+          },
+          {
+            "id": "0f35ff7dc284bfa7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
+          },
+          {
+            "id": "43a1849b1c1bd29b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VulnAssessment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VulnAssessment"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,12 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bangla/notes.md",
+                "file": "VulnAssessment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from notes"
+              "title": "Outgoing links from VulnAssessment"
             }
           },
           {
@@ -191,26 +217,35 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b22b8cf839f3ad12",
+  "active": "43a1849b1c1bd29b",
   "lastOpenFiles": [
+    "Prompt_Engineering/python/Django prompt.md",
+    "VulnAssessment.md",
+    "digital_certificate.md",
+    "Excalidraw/Drawing 2026-03-19 19.07.17.excalidraw.md",
+    "Excalidraw",
+    "Vuln.md",
     "Untitled.canvas",
-    "Untitled.base",
+    "English Structure.md",
+    "English",
+    "cybersecurity.md",
+    "Bangla/riskmanagement.md",
     "Bangla/notes.md",
+    "dns.md",
+    "cehPreperation.md",
+    "Untitled.base",
     "attachments/Gemini_Generated_Image_hr6vc4hr6vc4hr6v.png",
     "Security Concepts/PKI.md",
     "Code of Ethics.md",
     "hadhing.md",
-    "Vuln.md",
     "Security Concepts/Encryption.md",
     "Security Concepts/Cybersecurity Understanding the CIA Triad.md",
     "Security Concepts/2 Security Principles.pdf",
     "Python/Django/coding.py.md",
-    "Prompt_Engineering/python/Django prompt.md",
     "attachments/New Text Document.txt",
     "attachments/Pasted image 20250125073615.png",
     "Excalidraw/Drawing 2025-01-25 07.31.50.excalidraw.md",
     "Prompt_Engineering/python",
-    "Untitled",
     "Prompt_Engineering",
     "Excalidraw/Drawing 2025-01-25 07.26.48.excalidraw.md",
     "Free  Handwriting.md",
@@ -224,16 +259,8 @@
     "Excalidraw/Drawing 2024-12-28 18.00.28.excalidraw.md",
     "Excalidraw/Drawing 2024-12-28 16.51.28.excalidraw.md",
     "VAReport/mail.padmabankbd.com.md",
-    "Experiment.md",
-    "Public Key infrastructure.md",
-    "practice.md",
     "Ibanking.pdf",
-    "Coding Design.md",
-    "VAReport",
-    "Office/Ibanking.md",
     "attachments/Pasted image 20241228180144.png",
-    "[[Public.md",
-    "[[English.md",
     "Pasted image 20241228173808.png",
     "attachments/group2/Pasted image 20241228174057.png",
     "attachments/group1/line1.png"
