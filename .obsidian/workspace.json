@@ -8,61 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83bd2e95d2177a32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security Concepts/Cybersecurity Understanding the CIA Triad.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cybersecurity Understanding the CIA Triad"
-            }
-          },
-          {
-            "id": "b22b8cf839f3ad12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VulnAssessment.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VulnAssessment"
-            }
-          },
-          {
-            "id": "0f35ff7dc284bfa7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
-          },
-          {
             "id": "43a1849b1c1bd29b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VulnAssessment.md",
+                "file": "English/English Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VulnAssessment"
+              "title": "English Structure"
+            }
+          },
+          {
+            "id": "e0e2181f640bb493",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linking Verb.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linking Verb"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VulnAssessment.md",
+                "file": "Linking Verb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from VulnAssessment"
+              "title": "Outgoing links from Linking Verb"
             }
           },
           {
@@ -217,8 +191,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "43a1849b1c1bd29b",
+  "active": "e0e2181f640bb493",
   "lastOpenFiles": [
+    "English/English Structure.md",
+    "Linking Verb.md",
+    "English/english.md",
     "Prompt_Engineering/python/Django prompt.md",
     "VulnAssessment.md",
     "digital_certificate.md",
@@ -256,9 +233,6 @@
     "2025-01-18.md",
     "attachments/group2/Picture1.jpg",
     "Excalidraw/Drawing 2024-12-26 12.31.46.excalidraw.md",
-    "Excalidraw/Drawing 2024-12-28 18.00.28.excalidraw.md",
-    "Excalidraw/Drawing 2024-12-28 16.51.28.excalidraw.md",
-    "VAReport/mail.padmabankbd.com.md",
     "Ibanking.pdf",
     "attachments/Pasted image 20241228180144.png",
     "Pasted image 20241228173808.png",

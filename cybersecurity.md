@@ -1,1 +1,0 @@
-Cybersecurity is the practice of protecting systems, networks, and data from unauthorized access, attacks, or damage. It involves tools, processes, and policies to safeguard confidentiality, integrity, and availability of information.

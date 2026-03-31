@@ -1,12 +1,12 @@
-|**কোড**|**পূর্ণরূপ**|**উদাহরণ**|
-|---|---|---|
-|**SV**|Subject + Verb|Sun shines.|
-|**SVO**|Subject + Verb + Object|I love music.|
-|**SVC**|Subject + Verb + Complement|You look happy.|
-|**SVA**|Subject + Verb + Adjunct|Birds fly in the sky.|
-|**SVOO**|Subject + Verb + IO + DO|Mother told me a story.|
-|**SVOC**|Subject + Verb + Object + Comp|They called him a hero.|
-|**SVOA**|Subject + Verb + Object + Adjunct|She kept the money in her bag.|
+| **কোড**  | **পূর্ণরূপ**                      | **উদাহরণ**                     |
+| -------- | --------------------------------- | ------------------------------ |
+| **SV**   | Subject + Verb                    | Sun shines.                    |
+| **SVO**  | Subject + Verb + Object           | I love music.                  |
+| **SVC**  | Subject + Verb + Complement       | You look happy.                |
+| **SVA**  | Subject + Verb + Adjunct          | Birds fly in the sky.          |
+| **SVOO** | Subject + Verb + IO + DO          | Mother told me a story.        |
+| **SVOC** | Subject + Verb + Object + Comp    | They called him a hero.        |
+| **SVOA** | Subject + Verb + Object + Adjunct | She kept the money in her bag. |
 
 
 ---
